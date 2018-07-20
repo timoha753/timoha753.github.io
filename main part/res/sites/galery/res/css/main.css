@@ -1,0 +1,13 @@
+table{
+    width: 100%;
+}
+body{
+    background-size: 100%;
+    background-attachment: fixed;
+}
+p{
+    color: black;
+}
+.class1{
+    margin-left: 40px;
+}

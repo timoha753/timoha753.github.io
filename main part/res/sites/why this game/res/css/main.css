@@ -1,0 +1,19 @@
+table{
+    width: 100%;
+}
+body{
+    background-size: 100%;
+    background-attachment: fixed;
+}
+p{
+    color: black;
+}
+.class2{
+    margin-top: 200px;
+}
+h4{
+    margin-left: 200px;
+    margin-right: 200px;
+    color: white;
+    background-color: black;
+}
